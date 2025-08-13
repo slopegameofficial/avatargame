@@ -1,10 +1,10 @@
 <h2>A Reflex Game That Demands Precision</h2>
 
-In <a href="https://slope3.com">slope game</a>, you take control of a small avatar running through an obstacle-filled world at breakneck speed. The twist? You can’t stop moving. Your only command is to jump—and timing is everything.
+In <a href="https://slope3.com/avatar-game">avatar game</a>, you take control of a small avatar running through an obstacle-filled world at breakneck speed. The twist? You can’t stop moving. Your only command is to jump—and timing is everything.
 
 Spikes, gaps, walls, and other hazards stand in your way, requiring pixel-perfect precision to survive. Every second you stay alive is a win. One wrong move sends you back to the start. It's simple, addictive, and punishing in the best way possible.
+<a href='https://postimg.cc/18Bzff26' target='_blank'><img src='https://i.postimg.cc/xdDNpmPs/avatar-game.png' border='0' alt='avatar-game'/></a>
 
-<a href="https://slope3.com/avatar-game">avatar game</a>
 <h2>Play Instantly in Any Browser</h2>
   
 One of the biggest advantages of Avatar Game is that it's a browser-based game. There’s no need for downloads, accounts, or complicated setup. Just visit a trusted game site, click "play," and you're instantly thrown into the action.
